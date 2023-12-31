@@ -18,6 +18,6 @@ The world of distributed systems has always fascinated me, and I'll be sharing m
 
 Alongside these technical discourses, I may share personal life updates, giving you a glimpse into the life of a nerd juggling professional challenges and personal growth.
 
-I'm also open to your suggestions and requests. If there's a specific topic related to Rustlang, Solana development, distributed systems, or anything else you'd like me to explore, please don't hesitate to send me a direct message on Twitter at [@tracy-codes](https://twitter.com/tracy-codes). Your input is invaluable, and I look forward to engaging with you and growing together in this journey.
+I'm also open to your suggestions and requests. If there's a specific topic related to Rustlang, Solana development, distributed systems, or anything else you'd like me to explore, please don't hesitate to send me a direct message on Twitter at [@tracy_codes](https://twitter.com/tracy_codes). Your input is invaluable, and I look forward to engaging with you and growing together in this journey.
 
 Thank you for joining me here. Let's embark on this exciting adventure together, exploring the depths of technology and its endless possibilities.
