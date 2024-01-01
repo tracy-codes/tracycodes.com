@@ -22,6 +22,11 @@ export default function Document() {
                 <meta name="twitter:title" content={meta.title} />
                 <meta name="twitter:description" content={meta.description} />
                 <meta name="twitter:image" content={meta.image} />
+                <script
+                    src="https://cdn.usefathom.com/script.js"
+                    data-site="GTYMHZJT"
+                    defer
+                ></script>
             </Head>
             <body>
                 <Main />
